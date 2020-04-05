@@ -1,6 +1,6 @@
 # Learning Rust
 
-Tutorial: [!https://stevedonovan.github.io/rust-gentle-intro/readme.html]
+Tutorial: (https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 
 ## How to Run
 You should have `rust` installed.
