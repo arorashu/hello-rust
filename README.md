@@ -6,10 +6,25 @@ Tutorial: (https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 You should have `rust` installed.
 Use this tutorial to install [Rust](!https://www.rust-lang.org/tools/install)
 
+### A rust file
+
     # compile the rust file
     $ rustc hello.rs
     # run the executable
     $ ./hello
+
+### A cargo project
+
+Create Project
+> $ cargo init --bin write-polkadot
+
+Build Project
+> $ cd write-polkadot
+> $ cargo build
+
+Run Project
+> $ cargo run
+
 
 ## Practice log
 1. Hello, World
@@ -21,6 +36,7 @@ Use this tutorial to install [Rust](!https://www.rust-lang.org/tools/install)
 7. Vectors
 8. Iterators
 9. Interesting memory management in Vectors
+10. Create and Run Cargo project 
 
 ## TODO
 1. Strings
