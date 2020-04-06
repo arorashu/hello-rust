@@ -15,15 +15,15 @@ Use this tutorial to install [Rust](!https://www.rust-lang.org/tools/install)
 
 ### A cargo project
 
-Create Project
-> $ cargo init --bin write-polkadot
+    # Create Project
+    $ cargo init --bin write-polkadot
 
-Build Project
-> $ cd write-polkadot
-> $ cargo build
+    # Build Project
+    $ cd write-polkadot
+    $ cargo build
 
-Run Project
-> $ cargo run
+    # Run Project
+    $ cargo run
 
 
 ## Practice log
