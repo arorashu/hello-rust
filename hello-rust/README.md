@@ -39,7 +39,9 @@ Use this tutorial to install [Rust](!https://www.rust-lang.org/tools/install)
 10. Create and Run Cargo project 
 
 ## TODO
-1. Strings
-2. Command Line Arguments
-3. Match
-4. File Read
+1. Cargo dependency management
+2. Create and import modules
+3. Strings
+4. Command Line Arguments
+5. Match
+6. File Read
